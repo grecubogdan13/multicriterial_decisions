@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1540933144 source:d:\info\saw 2\main.cpp
+	<iostream>
+	<conio.h>
+
+1542482293 source:c:\users\bogdan\desktop\ademj_2018\saw 2\main.cpp
+	<iostream>
+	<Windows.h>
+	<conio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540932220 source:d:\info\topsis 2.0\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542482026 source:c:\users\bogdan\desktop\ademj_2018\saw\main.cpp
+	<iostream>
+	<Windows.h>
+	<conio.h>
+
